@@ -55,7 +55,7 @@ Staging katmanında aşağıdaki kontroller yapılmıştır:
 
 ## Tablolar
 
-# `etl.staging_sales`
+### `etl.staging_sales`
 - CSV’den alınan ham veri
 
 ### `etl.clean_sales`
@@ -65,9 +65,9 @@ Staging katmanında aşağıdaki kontroller yapılmıştır:
 
 ## Proje Yapısı
 sql/
-├── 01_setup.sql # Schema ve staging tablo
-├── 02_etl.sql # Extract + Transform + Load
-└── 03_reporting.sql # Veri kalite kontrolleri
+* 01_setup.sql # Schema ve staging tablo
+* 02_etl.sql # Extract + Transform + Load
+* 03_reporting.sql # Veri kalite kontrolleri
 
 ---
 
