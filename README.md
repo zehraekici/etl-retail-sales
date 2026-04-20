@@ -70,7 +70,7 @@ sql/
 * 03_reporting.sql # Veri kalite kontrolleri
 
 data/
-*LA_Retail_Sales.csv
+* LA_Retail_Sales.csv
 
 ---
 
