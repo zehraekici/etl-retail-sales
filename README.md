@@ -55,7 +55,7 @@ Staging katmanında aşağıdaki kontroller yapılmıştır:
 
 ## Tablolar
 
-### `etl.staging_sales`
+# `etl.staging_sales`
 - CSV’den alınan ham veri
 
 ### `etl.clean_sales`
