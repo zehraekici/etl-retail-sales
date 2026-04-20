@@ -2,6 +2,9 @@
 
 Bu proje, Los Angeles perakende satış verilerini içeren ham CSV dosyalarını SQL Server ortamına aktarmak, temizlemek ve analiz edilebilir bir veri modeline dönüştürmek için tasarlanmıştır. ETL (Extract, Transform, Load) süreci geliştirilmiştir. 
 
+## Demo Videosu
+https://drive.google.com/file/d/1iB8Eyvb3-iPlN-pXQ35oaE2AXaEL2TRr/view?usp=sharing
+
 ---
 
 ## Kullanılan Teknolojiler
