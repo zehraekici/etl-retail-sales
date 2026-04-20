@@ -79,9 +79,9 @@ data/
 
 Scriptleri aşağıdaki sırayla çalıştır:
 
-01_setup.sql
-02_etl.sql
-03_reporting.sql
+1) 01_setup.sql
+2) 02_etl.sql
+3) 03_reporting.sql
 
 ---
 ## Önemli Not
