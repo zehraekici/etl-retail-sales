@@ -69,6 +69,9 @@ sql/
 * 02_etl.sql # Extract + Transform + Load
 * 03_reporting.sql # Veri kalite kontrolleri
 
+data/
+*LA_Retail_Sales.csv
+
 ---
 
 
